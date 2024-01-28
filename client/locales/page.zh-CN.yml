@@ -1,0 +1,17 @@
+title: 暴露上下文
+description: '这是一个也许有用的开发工具...?'
+intro:
+  title: 上下文已暴露在 {0} 中
+  description: 您可以打开 Devtools, 使用 {0} 访问上下文
+exposes:
+  title: '当前已暴露内容 (仅限前端): '
+  tail-desc: "注: 前端上下文将以 '{0}' 结尾, 后端{1}结尾 (可用于前后端都在浏览器的环境, 如 Koishi Online)"
+example-usages:
+  title: '示例用法'
+coming-soon: '正在准备中, 请坐和放宽...'
+coming-failed: '更新 {0} 时出现问题, 正在回滚修改...'
+coming-boom: '回滚失败! 啥都没有回滚毛线啊!!!'
+lang:
+  nothing: '无'
+  or1: ', '
+  or2: ' 或 '

@@ -1,0 +1,17 @@
+title: Context Exposer
+description: 'Maybe useful developing tools'
+intro:
+  title: Context exposed in {0}!
+  description: You can open Devtools, and access {0} for contexts
+exposes:
+  title: 'List of exposed (Client only): '
+  tail-desc: "P.S.: Client contexts ends with '{0}', Backend ends with {1} (For all-browser environment like Koishi Online)"
+example-usages:
+  title: 'Example Usages'
+coming-soon: 'Coming s∞n, please sit and relax...'
+coming-failed: 'Something went wrong while updating {0}, rolling back changes...'
+coming-boom: 'Rollback failed! Rollback for nothing!??'
+lang:
+  nothing: 'nothing'
+  or1: ', '
+  or2: 'or'
