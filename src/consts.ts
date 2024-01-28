@@ -1,7 +1,7 @@
 import { Context, send, receive } from "@koishijs/client";
-import {Awaitable} from 'cosmokit'
+import { Awaitable } from 'cosmokit'
 
-export const g = window ?? globalThis ?? global
+export const g = typeof window !== 'undefined' ? window : globalThis ?? global
 
 export const exposeTo = 'globalThis'
 
