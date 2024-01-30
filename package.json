@@ -27,7 +27,8 @@
     "plugin"
   ],
   "devDependencies": {
-    "@koishijs/client": "^5.26.6"
+    "@koishijs/client": "^5.26.6",
+    "@koishijs/plugin-console": "^5.26.6"
   },
   "peerDependencies": {
     "@koishijs/console": "^5.26.6",
